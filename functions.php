@@ -6,7 +6,7 @@ function abort($code){
     die();
 }
 
-function view($view, $data = []){
+function view($view, $revenues = []){
     require './views/template/app.php';
 }
 
