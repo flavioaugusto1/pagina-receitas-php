@@ -7,6 +7,11 @@ function abort($code){
 }
 
 function view($view, $revenues = []){
+    if($view === 'revenue') {
+        foreach($revenues as $key => $value){
+            $$key = $value;
+        }
+    }
     require './views/template/app.php';
 }
 
