@@ -108,5 +108,4 @@ Cada receita possui campos como:
 
 ## 📄 Licença
 
-Defina conforme sua preferência.  
-(O projeto ainda não possui um arquivo de licença)
+- O projeto ainda não possui um arquivo de licença
