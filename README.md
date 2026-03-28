@@ -10,9 +10,6 @@ Interface construída com **Tailwind CSS** carregado via CDN.
 - **PHP 8.x** (recomendado)  
   Pode usar servidor embutido ou Apache/Nginx apontando para a pasta do projeto.
 
-- **`short_open_tag` habilitado** no `php.ini`  
-  O arquivo `routes.php` utiliza a tag curta `<?` em vez de `<?php`.
-
 ---
 
 ## 🚀 Como executar
